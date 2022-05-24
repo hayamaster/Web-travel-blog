@@ -3,3 +3,14 @@
     font-size:18px;
     
 }
+
+.style{
+    flex: 1;
+    margin-left:200px;
+}
+
+.header {
+    font-size: 30px;
+    text-align: center;
+    background-color: beige;
+  }

@@ -2,6 +2,7 @@
     height: 100%;
     display: flex;
     justify-content: center;
+    background-color: #f0d6d0;
   }
   
   .loader {
@@ -28,3 +29,4 @@
       width: 100%;
     }
   }
+
