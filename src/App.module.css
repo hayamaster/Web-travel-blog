@@ -12,5 +12,14 @@
 .header {
     font-size: 30px;
     text-align: center;
-    background-color: beige;
+    margin-left:7%;
+    width: 93%;
+    height: 300px;
+
   }
+
+
+.h1{
+    color: black;
+    margin:0px;
+}

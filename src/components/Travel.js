@@ -17,12 +17,12 @@ function Travel({id, image, title, summary}){
         );
 }
 
-Travel.propTypes = {
-    id: PropTypes.number.isRequired,
-    medium_cover_image: PropTypes.string.isRequired,
-    title: PropTypes.string.isRequired,
-    summary: PropTypes.string.isRequired,
-    genres: PropTypes.arrayOf(PropTypes.string).isRequired,
-}
+// Travel.propTypes = {
+//     id: PropTypes.number.isRequired,
+//     medium_cover_image: PropTypes.string.isRequired,
+//     title: PropTypes.string.isRequired,
+//     summary: PropTypes.string.isRequired,
+//     genres: PropTypes.arrayOf(PropTypes.string).isRequired,
+// }
 
 export default Travel;

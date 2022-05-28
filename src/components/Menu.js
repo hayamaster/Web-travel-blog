@@ -2,12 +2,11 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './Menu.css';
 import { SidebarData } from './SidebarData';
-//import { IconContext } from 'react-icons';
+import { IconContext } from 'react-icons';
 
 function Menu() {
   return (
     <>
-      
         <nav className='nav-menu'>
           <ul className='nav-menu-items'>
             {SidebarData.map((item, index) => {
@@ -29,5 +28,5 @@ function Menu() {
 
 export default Menu;
 
-//<IconContext.Provider value={{ color: '#fff' }}>
-//</IconContext.Provider>
+<IconContext.Provider value={{ color: '#fff' }}>
+</IconContext.Provider>

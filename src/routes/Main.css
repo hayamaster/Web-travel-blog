@@ -1,0 +1,43 @@
+.main {
+    background-color: beige;
+    padding: 50px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    margin-left: 135px;
+    margin-right: 135px;
+    border: 15px solid #dddddd;
+}
+
+.button{
+    text-align: center;
+}
+
+.h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.img2{
+    width:100px;
+    padding-top: 45px;
+    float: left;
+}
+
+.img1{
+    width:80px;
+    margin: 8px;
+    padding-top: 45px;
+    float: left;
+}
+
+.container{
+    position: relative;
+    padding: 20px;
+    padding-left: 24%;
+}
+
+.inner{
+    padding-left: 150px;
+    font-size:18px;
+    font-weight: bold;
+}

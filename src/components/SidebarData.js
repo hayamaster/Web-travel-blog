@@ -1,24 +1,25 @@
 import React from 'react';
-//import * as BsIcons from 'react-icons/bs';
-//import { IoIosAirplane } from "react-icons/io";
+import * as BsIcons from 'react-icons/bs';
+import { IoIosAirplane } from "react-icons/io";
 
 export const SidebarData = [
   {
     title: 'Home',
-    path: '/',
-    //icon: <BsIcons.BsFillHouseDoorFill />,
+    path: `${process.env.PUBLIC_URL}/`,
+    icon: <BsIcons.BsFillHouseDoorFill />,
     Name: 'nav-text'
   },
   {
-    title: 'Japan',
-    path: '/japan',
-    //icon: <IoIosAirplane />,
+    title: 'Domestic',
+    path: '/domestic',
+    icon: <IoIosAirplane />,
     Name: 'nav-text'
   },
   {
-    title: 'About',
-    path: '/about',
-    //icon: <BsIcons.BsFillInfoCircleFill />,
+    title: 'International',
+    path: '/international',
+    icon: <IoIosAirplane />,
+    // icon: <BsIcons.BsFillInfoCircleFill />,
     Name: 'nav-text'
   }
 ];
