@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Web-travel-blog/static/css/main.b78712a2.css",
+    "main.js": "/Web-travel-blog/static/js/main.7a094940.js",
+    "static/media/title.png": "/Web-travel-blog/static/media/title.72ec62d2888580050dc0.png",
+    "static/media/2_2.jpeg": "/Web-travel-blog/static/media/2_2.649dd1fbad3df3db57bd.jpeg",
+    "static/media/chile2.jpg": "/Web-travel-blog/static/media/chile2.65679f689af0df091d8a.jpg",
+    "static/media/chile3.jpg": "/Web-travel-blog/static/media/chile3.70835b0e334544bae1cc.jpg",
+    "static/media/chile1.jpg": "/Web-travel-blog/static/media/chile1.aa73fa5d1927344de586.jpg",
+    "static/media/argentina.jpg": "/Web-travel-blog/static/media/argentina.9b2611bda788abf4cdb6.jpg",
+    "static/media/1_2.jpeg": "/Web-travel-blog/static/media/1_2.30ba7669afd740091f4f.jpeg",
+    "static/media/bolivia3.jpg": "/Web-travel-blog/static/media/bolivia3.50520355ad91968b1bf1.jpg",
+    "static/media/1_1.jpeg": "/Web-travel-blog/static/media/1_1.e2a22e08d0cdd7794276.jpeg",
+    "static/media/1_3.jpeg": "/Web-travel-blog/static/media/1_3.77d89de4213b1570212d.jpeg",
+    "static/media/2_4.jpeg": "/Web-travel-blog/static/media/2_4.ec743d2002181a77b112.jpeg",
+    "static/media/2_3.jpg": "/Web-travel-blog/static/media/2_3.6e9c358d232acfa44b40.jpg",
+    "static/media/1_4.jpeg": "/Web-travel-blog/static/media/1_4.f65c59922a27712fdaec.jpeg",
+    "static/media/presentation.png": "/Web-travel-blog/static/media/presentation.3d439c14f8f4c69982e2.png",
+    "static/media/report.png": "/Web-travel-blog/static/media/report.f9254a461df6967d4b1b.png",
+    "static/media/programmer.png": "/Web-travel-blog/static/media/programmer.e17a77368d42027b254f.png",
+    "index.html": "/Web-travel-blog/index.html",
+    "main.b78712a2.css.map": "/Web-travel-blog/static/css/main.b78712a2.css.map",
+    "main.7a094940.js.map": "/Web-travel-blog/static/js/main.7a094940.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b78712a2.css",
+    "static/js/main.7a094940.js"
+  ]
+}
